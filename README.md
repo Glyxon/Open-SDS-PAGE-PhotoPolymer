@@ -2,9 +2,9 @@
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-This repository contains the full protocol, Bill of Materials (BOM), and optimized recipes for performing protein electrophoresis (SDS-PAGE) using a **Blue-Light Photopolymerization system (450-475 nm)**. 
+This repository contains the full protocol, Bill of Materials (BOM), and optimized recipes for performing protein electrophoresis (SDS-PAGE) using a **Blue-Light Photopolymerization system (475 nm)**. 
 
-Developed by David J. Castillo-Cornejo PhD (Potato heck-Dip, although I have a real PhD too...)  **Glyxon Biolabs**, this method eliminates reliance on toxic, short-shelf-life reagents like TEMED and APS, replacing them with a robust Riboflavin/EDTA system and low-cost, off-the-shelf hardware.
+Developed by **Glyxon Biolabs**, this method eliminates reliance on toxic, short-shelf-life reagents like TEMED and APS, replacing them with a robust Riboflavin/EDTA system and low-cost, off-the-shelf hardware.
 
 ---
 
@@ -32,6 +32,21 @@ Developed by David J. Castillo-Cornejo PhD (Potato heck-Dip, although I have a r
 ### 📱 Software & Control
 * **Zengge BLE (Bluetooth V2):** Mobile app for precise wavelength and intensity control.
     * [Google Play Store - Zengge BLE](https://play.google.com/store/apps/details?id=com.zengge.blev2&hl=es_MX)
+
+---
+
+## 🧪 Buffer Stock Preparation (30 ml Batches)
+
+| Buffer Type | Concentration | Tris Base Mass | Target pH |
+| :--- | :--- | :--- | :--- |
+| **Resolving** | 1.5 M | 5.45 g | 8.8 |
+| **Stacking** | 0.5 M | 1.82 g | 6.8 |
+
+### Procedure:
+1. Dissolve the Tris Base in ~20 ml of deionized water.
+2. Adjust pH using concentrated HCl dropwise (Caution: exothermic reaction).
+3. Once stabilized, bring the final volume to 30 ml using a volumetric flask or precision cylinder.
+4. **Lab Tip:** Store in airtight containers to prevent CO2 absorption, which can shift the pH over time.
 
 ---
 
@@ -69,7 +84,7 @@ Developed by David J. Castillo-Cornejo PhD (Potato heck-Dip, although I have a r
 1. **Assembly:** Setup the glass plates. Use **white electrical tape** and **binder clips** for a frugal seal if a commercial caster is not available.
 2. **Resolving Gel:** Pour the 12% mix and overlay with **300 µl of Isopropanol** to level the surface.
 3. **Exposure I:** Place the LED matrix as close as possible to the glass. Set to **Solid Blue (475 nm)** at 100% intensity via the App. 
-   * **Duration:** Polymerization occurs after 30 min. However, optimal can go up to 45 - 60 minutes.
+   * **Duration:** 45 - 60 minutes.
 4. **Washing:** Remove the isopropanol, rinse with distilled water, and dry carefully with filter paper.
 5. **Stacking Gel:** Pour the **6% mix**, insert the comb, and expose to blue light again.
    * **Glyxon Pro-Tip:** Increasing EDTA/Riboflavin concentrations in the stacking gel significantly accelerates the process and ensures well integrity.
