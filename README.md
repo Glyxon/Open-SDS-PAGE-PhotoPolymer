@@ -4,7 +4,7 @@
 
 This repository contains the full protocol, Bill of Materials (BOM), and optimized recipes for performing protein electrophoresis (SDS-PAGE) using a **Blue-Light Photopolymerization system (475 nm)**. 
 
-Developed by **Glyxon Biolabs**, this method eliminates reliance on toxic, short-shelf-life reagents like TEMED and APS, replacing them with a robust Riboflavin/EDTA system and low-cost, off-the-shelf hardware.
+Developed by **Glyxon Biolabs**, this method eliminates reliance on toxic, short-shelf-life reagents like TEMED and APS, replacing them with a robust Riboflavin/EDTA system and low-cost, off-the-shelf hardware. Still Acrylamide is neurotoxic (sadly we can get rid of this one... yet, ALWAYS WEAR GLOVES!!!) 
 
 ---
 
@@ -84,7 +84,7 @@ Developed by **Glyxon Biolabs**, this method eliminates reliance on toxic, short
 1. **Assembly:** Setup the glass plates. Use **white electrical tape** and **binder clips** for a frugal seal if a commercial caster is not available.
 2. **Resolving Gel:** Pour the 12% mix and overlay with **300 µl of Isopropanol** to level the surface.
 3. **Exposure I:** Place the LED matrix as close as possible to the glass. Set to **Solid Blue (450-475 nm)** at 100% intensity via the App. 
-   * **Duration:** 45 - 60 minutes.
+   * **Duration:** You could see polymerization after 15-20 min  but it is better to wait 45 - 60 minutes.
 4. **Washing:** Remove the isopropanol, rinse with distilled water, and dry carefully with filter paper.
 5. **Stacking Gel:** Pour the **6% mix**, insert the comb, and expose to blue light again.
    * **Glyxon Pro-Tip:** Increasing EDTA/Riboflavin concentrations in the stacking gel significantly accelerates the process and ensures well integrity.
