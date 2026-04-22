@@ -2,9 +2,9 @@
 
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL%20v3-blue.svg)](https://www.gnu.org/licenses/agpl-3.0)
 
-This repository contains the full protocol, Bill of Materials (BOM), and optimized recipes for performing protein electrophoresis (SDS-PAGE) using a **Blue-Light Photopolymerization system (475 nm)**. 
+This repository contains the full protocol, Bill of Materials (BOM), and optimized recipes for performing protein electrophoresis (SDS-PAGE) using a **Blue-Light Photopolymerization system (450-475 nm)**. 
 
-Developed by **Glyxon Biolabs**, this method eliminates reliance on toxic, short-shelf-life reagents like TEMED and APS, replacing them with a robust Riboflavin/EDTA system and low-cost, off-the-shelf hardware.
+Developed by David J. Castillo-Cornejo PhD (Potato heck-Dip, although I have a real PhD too...)  **Glyxon Biolabs**, this method eliminates reliance on toxic, short-shelf-life reagents like TEMED and APS, replacing them with a robust Riboflavin/EDTA system and low-cost, off-the-shelf hardware.
 
 ---
 
