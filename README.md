@@ -69,7 +69,7 @@ Developed by David J. Castillo-Cornejo PhD (Potato heck-Dip, although I have a r
 1. **Assembly:** Setup the glass plates. Use **white electrical tape** and **binder clips** for a frugal seal if a commercial caster is not available.
 2. **Resolving Gel:** Pour the 12% mix and overlay with **300 µl of Isopropanol** to level the surface.
 3. **Exposure I:** Place the LED matrix as close as possible to the glass. Set to **Solid Blue (475 nm)** at 100% intensity via the App. 
-   * **Duration:** 45 - 60 minutes.
+   * **Duration:** Polymerization occurs after 30 min. However, optimal can go up to 45 - 60 minutes.
 4. **Washing:** Remove the isopropanol, rinse with distilled water, and dry carefully with filter paper.
 5. **Stacking Gel:** Pour the **6% mix**, insert the comb, and expose to blue light again.
    * **Glyxon Pro-Tip:** Increasing EDTA/Riboflavin concentrations in the stacking gel significantly accelerates the process and ensures well integrity.
