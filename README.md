@@ -83,7 +83,7 @@ Developed by **Glyxon Biolabs**, this method eliminates reliance on toxic, short
 ### 1. Casting & Photopolymerization
 1. **Assembly:** Setup the glass plates. Use **white electrical tape** and **binder clips** for a frugal seal if a commercial caster is not available.
 2. **Resolving Gel:** Pour the 12% mix and overlay with **300 µl of Isopropanol** to level the surface.
-3. **Exposure I:** Place the LED matrix as close as possible to the glass. Set to **Solid Blue (475 nm)** at 100% intensity via the App. 
+3. **Exposure I:** Place the LED matrix as close as possible to the glass. Set to **Solid Blue (450-475 nm)** at 100% intensity via the App. 
    * **Duration:** 45 - 60 minutes.
 4. **Washing:** Remove the isopropanol, rinse with distilled water, and dry carefully with filter paper.
 5. **Stacking Gel:** Pour the **6% mix**, insert the comb, and expose to blue light again.
